@@ -6,7 +6,9 @@
   <img src="https://raw.githubusercontent.com/dewasatria11/dewasatria11/main/assets/neon-divider-cyberpunk.gif" width="720" alt="Cyberpunk Divider" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Line" />
+</p>
 
 ## ⚡ Tentang Saya
 
@@ -44,39 +46,6 @@ const dewaSatria = {
 </td>
 </tr>
 </table>
-
----
-
-## 🌌 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewasatria11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=FF00FF&title_color=FF00FF&text_color=00EAFF" alt="Statistik GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewasatria11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=00EAFF" alt="Bahasa Teratas" height="180" />
-</p>
-
----
-
-## 🕸 Grafik Aktivitas
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewasatria11&bg_color=0d1117&color=00EAFF&line=00EAFF&point=FF00FF&area=true&hide_border=true" width="100%" alt="Grafik Aktivitas" />
-</p>
-
----
-
-## 🔥 Trofi
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dewasatria11&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trofi GitHub" />
-</p>
-
----
-
-## 🚀 Statistik Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dewasatria11&theme=radical&hide_border=true&background=0d1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00EAFF" alt="GitHub Streak" />
-</p>
 
 ---
 
