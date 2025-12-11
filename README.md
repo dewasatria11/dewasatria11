@@ -10,28 +10,54 @@
 
 ## ⚡ Tentang Saya
 
-```yaml
-lokasi: "Indonesia"
-fokus_saat_ini: "Membangun aplikasi web skalabel & solusi berbasis AI"
-keahlian:
-  - Pengembangan Fullstack
-  - Data Science & Machine Learning
-  - Desain & Integrasi API
-misi: "Mengubah kopi menjadi kode sejak sistem pertama kali berjalan"
-status: "ONLINE // SIAP BERKOLABORASI"
+<table>
+<tr>
+<td>
+
+```js
+const dewaSatria = {
+    lokasi: "Indonesia 🇮🇩",
+    peran: ["Fullstack Developer", "Data Science Engineer"],
+    teknologi: {
+        frontend: ["React", "Next.js", "Tailwind"],
+        backend: ["Node.js", "Python", "FastAPI"],
+        database: ["PostgreSQL", "MongoDB", "MySQL"],
+    },
+    arsitektur: ["Microservices", "REST API", "PWA"],
+    tantanganSaatIni: "Membangun solusi AI yang berdampak",
+};
 ```
+
+</td>
+<td>
+
+🔮 **Status:** `ONLINE`
+
+🎯 **Fokus:** Web Apps & AI Solutions
+
+☕ **Misi:** Mengubah kopi → kode
+
+📍 **Base:** Indonesia
+
+🚀 **Mode:** Siap Berkolaborasi!
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌌 Statistik GitHub
 
 <p align="center">
-  <a href="https://github.com/dewasatria11">
-    <img src="https://github-readme-stats.vercel.app/api?username=dewasatria11&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF00FF&title_color=FF00FF&text_color=00EAFF&include_all_commits=true&count_private=true" alt="Statistik GitHub" height="180" />
-  </a>
-  <a href="https://github.com/dewasatria11">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewasatria11&layout=compact&theme=tokyonight&hide_border=true&icon_color=FF00FF&title_color=FF00FF&text_color=00EAFF&langs_count=8" alt="Bahasa Teratas" height="180" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dewasatria11&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF00FF&title_color=FF00FF&text_color=00EAFF&rank_icon=github" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dewasatria11&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF00FF&title_color=FF00FF&text_color=00EAFF&rank_icon=github" alt="Statistik GitHub" height="180" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dewasatria11&layout=compact&theme=tokyonight&hide_border=true&title_color=FF00FF&text_color=00EAFF" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dewasatria11&layout=compact&theme=tokyonight&hide_border=true&title_color=FF00FF&text_color=00EAFF" alt="Bahasa Teratas" height="180" />
+  </picture>
 </p>
 
 ---
@@ -39,9 +65,7 @@ status: "ONLINE // SIAP BERKOLABORASI"
 ## 🕸 Grafik Aktivitas
 
 <p align="center">
-  <a href="https://github.com/dewasatria11">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewasatria11&theme=react-dark&area=true&hide_border=true&line=00EAFF&point=FF00FF&bg_color=0d1117" width="100%" alt="Grafik Aktivitas" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewasatria11&bg_color=1a1b27&color=00EAFF&line=00EAFF&point=FF00FF&area=true&hide_border=true" width="100%" alt="Grafik Aktivitas" />
 </p>
 
 ---
@@ -49,9 +73,7 @@ status: "ONLINE // SIAP BERKOLABORASI"
 ## 🔥 Trofi
 
 <p align="center">
-  <a href="https://github.com/dewasatria11">
-    <img src="https://github-profile-trophy.vercel.app/?username=dewasatria11&theme=dracula&no-frame=true&column=7&no-bg=true" alt="Trofi GitHub" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=dewasatria11&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trofi GitHub" />
 </p>
 
 ---
@@ -59,9 +81,7 @@ status: "ONLINE // SIAP BERKOLABORASI"
 ## 🚀 Statistik Streak
 
 <p align="center">
-  <a href="https://github.com/dewasatria11">
-    <img src="https://streak-stats.demolab.com?user=dewasatria11&theme=tokyonight&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=00EAFF&sideLabels=00EAFF" width="720" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewasatria11&theme=tokyonight&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=00EAFF&sideLabels=00EAFF&stroke=00EAFF" alt="GitHub Streak" />
 </p>
 
 ---
