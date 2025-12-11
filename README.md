@@ -50,14 +50,8 @@ const dewaSatria = {
 ## 🌌 Statistik GitHub
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dewasatria11&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF00FF&title_color=FF00FF&text_color=00EAFF&rank_icon=github" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dewasatria11&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF00FF&title_color=FF00FF&text_color=00EAFF&rank_icon=github" alt="Statistik GitHub" height="180" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dewasatria11&layout=compact&theme=tokyonight&hide_border=true&title_color=FF00FF&text_color=00EAFF" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dewasatria11&layout=compact&theme=tokyonight&hide_border=true&title_color=FF00FF&text_color=00EAFF" alt="Bahasa Teratas" height="180" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=dewasatria11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=FF00FF&title_color=FF00FF&text_color=00EAFF" alt="Statistik GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewasatria11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=00EAFF" alt="Bahasa Teratas" height="180" />
 </p>
 
 ---
@@ -65,7 +59,7 @@ const dewaSatria = {
 ## 🕸 Grafik Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewasatria11&bg_color=1a1b27&color=00EAFF&line=00EAFF&point=FF00FF&area=true&hide_border=true" width="100%" alt="Grafik Aktivitas" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewasatria11&bg_color=0d1117&color=00EAFF&line=00EAFF&point=FF00FF&area=true&hide_border=true" width="100%" alt="Grafik Aktivitas" />
 </p>
 
 ---
@@ -73,7 +67,7 @@ const dewaSatria = {
 ## 🔥 Trofi
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dewasatria11&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trofi GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dewasatria11&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trofi GitHub" />
 </p>
 
 ---
@@ -81,7 +75,7 @@ const dewaSatria = {
 ## 🚀 Statistik Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewasatria11&theme=tokyonight&hide_border=true&ring=FF00FF&fire=FF00FF&currStreakLabel=00EAFF&sideLabels=00EAFF&stroke=00EAFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dewasatria11&theme=radical&hide_border=true&background=0d1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00EAFF" alt="GitHub Streak" />
 </p>
 
 ---
