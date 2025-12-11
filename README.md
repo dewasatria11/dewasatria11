@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=800&color=F11CF7&center=true&vCenter=true&width=700&lines=MEMUAT+ANTARMUKA+NEURAL...;PENGGUNA%3A+DEWA+SATRIA+%2F%2F+dewasatria11;FULLSTACK+DEVELOPER+%2F%2F+DATA+SCIENCE+ENGINEER;SISTEM+CYBERPUNK+AKTIF%E2%80%A6+%E2%9C%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=00EAFF&center=true&vCenter=true&width=700&lines=MEMUAT+ANTARMUKA+NEURAL...;PENGGUNA%3A+DEWA+SATRIA+%2F%2F+dewasatria11;FULLSTACK+DEVELOPER+%2F%2F+DATA+SCIENCE+ENGINEER;SISTEM+CYBERPUNK+AKTIF%E2%80%A6+%E2%9C%93" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -55,7 +55,6 @@ const dewaSatria = {
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,express,tailwind,postgres,mysql,mongodb,git,github,vscode,docker" alt="Tech Stack" />
 </p>
 
-<p align="center"><em>Peralatan bertenaga neon.</em></p>
 
 ---
 
